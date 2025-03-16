@@ -31,7 +31,7 @@ Converted relevant columns (e.g., Animal_Type, Animal_ID) to categorical data to
 
 Converted date-related columns to datetime format
 
-Please see additional csv file for long outputs for "breed" and "color" columns. Separated for improved readability.
+Please see additional csv file for long outputs for "breed" and "color" columns. Separated for improved readability
 
 ## Exploratory Data Analysis (EDA)
 Analyzed trends in animal outcomes over time
