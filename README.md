@@ -1,8 +1,8 @@
 ## austin_animal_shelter
-#Data cleaning and basic EDA project
+# Data cleaning and basic EDA project
 This project demonstrates my ability to clean and manipulate data, as well as perform exploratory data analysis. The dataset comes from the Austin Animal Center, a no-kill animal shelter in Austin, Texas, covering records from 2013 to February 2025.
 
-#Project Objectives
+# Project Objectives
 Import and preprocess data
 Perform data cleaning and wrangling
 Conduct exploratory data analysis (EDA)
