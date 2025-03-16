@@ -4,8 +4,11 @@ This project demonstrates my ability to clean and manipulate data, as well as pe
 
 # Project Objectives
 Import and preprocess data
+
 Perform data cleaning and wrangling
+
 Conduct exploratory data analysis (EDA)
+
 Visualize key insights
 Technologies Used
 Python 3.11.11
